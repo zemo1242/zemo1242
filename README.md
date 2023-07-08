@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zemo1242
+- 👋 Hi, I’m @zemoos
 - 👀 I’m interested in data 
 - 🌱 I’m currently learning basics
 - 💞️ I’m looking to collaborate on discord
